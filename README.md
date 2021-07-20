@@ -1,8 +1,17 @@
 # Aplicação
 
-# Funcionalidades
-
 <hr>
+
+# Objetivo do Desafio
+
+O objetivo do desafio era criar algumas funcionalidades para o App e passar em todos os testes
+
+Funcionalidades criadas:
+
+- Adicionar produto ao carrinho
+- Remover uma unidade do produto
+- Remover o produto
+- Mostrar quantos itens possuem no carrinho
 
 **Obs: para o projeto rodar é necessário possuir:**
 
