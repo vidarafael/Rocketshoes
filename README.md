@@ -29,7 +29,7 @@ Funcionalidades criadas:
 $ git clone https://github.com/vidarafael/Rocketshoes.git
 
 # Acesse a pasta do projeto no terminal
-$ cd dtmoney
+$ cd rocketshoes
 
 # Abrindo o Projeto no Visual Studio
 $ code .
